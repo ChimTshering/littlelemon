@@ -1,0 +1,9 @@
+django admin User
+user_name: littlelemonadmin
+password: Littlelemon@123
+
+
+mysql user
+-u : littlelemonadmin
+-p : Littlelemon@123
+db_name: littlelemon
